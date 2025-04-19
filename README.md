@@ -52,8 +52,7 @@ I AM not responsible for what you do with this code. Educational purposes only.
 
 ---
 
-## 🧱 FILE STRUCTURE
-DEVIOUS SELFBOT/ ├── devious.py # Main bot script ├── pack.txt # Pack lines ├── death.txt # Death pack ├── court.txt # Court pack ├── lol.txt # Lol pack ├── status.txt # Rotating status messages ├── requirements.txt # PIP dependencies ├── README.md # You're reading it └── .gitignore # Skips pycache and misc
+
 
 
 ---
