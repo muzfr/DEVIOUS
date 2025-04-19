@@ -123,7 +123,7 @@ def run_client(token):
  
         if cmd == ">packend":
             PACKING = False
-            await message.channel.send("[muz runs me]] Packing ended.")
+            await message.channel.send("[📴] Packing ended.")
             
         elif cmd == ">pack" and len(args) >= 2:
             lines = read_lines("pack.txt")
