@@ -103,6 +103,9 @@ def run_client(token):
 
     @client.event
     async def on_message(message):
+        if message.id != client.user.id:
+            return
+        
         
         nonlocal REACT_USER_ID, REACT_EMOJI
         global PACKING
