@@ -103,9 +103,6 @@ def run_client(token):
 
     @client.event
     async def on_message(message):
-        if message.id != client.user.id:
-            return
-        
         
         nonlocal REACT_USER_ID, REACT_EMOJI
         global PACKING
@@ -126,7 +123,7 @@ def run_client(token):
  
         if cmd == ">packend":
             PACKING = False
-            await message.channel.send("[muz runs me] Packing ended.")
+            await message.channel.send("[muz runs me]] Packing ended.")
             
         elif cmd == ">pack" and len(args) >= 2:
             lines = read_lines("pack.txt")
