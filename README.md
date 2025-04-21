@@ -1,6 +1,6 @@
 # 💀 DEVIOUS  — DISCORD SELF-BOT 
 
-A custom Discord selfbot coded  by [@overflying](https://discord.gg/says) 
+A custom Discord selfbot coded  by [@fanciers](https://discord.gg/says) 
 # ⚠️ WARNING
 This is a Discord selfbot, and using it violates Discord’s Terms of Service.
 You can be disabled, warned, or banned if you abuse this client.
@@ -79,11 +79,11 @@ colorama
 
 
 # 👑 CREDITS
-🔥 Made by: @overflying
+🔥 Made by: @fanciers
 
-💬 Discord: overflying
+💬 Discord: fanciers
 
-🧠 Dev: Muz | @overflying
+🧠 Dev: Muz | @fanciers
 
 
 # CONTRIBUTE
