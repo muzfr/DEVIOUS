@@ -26,7 +26,7 @@ def splash():
 ██║  ██║██╔══╝  ╚██╗ ██╔╝██║██║   ██║██║   ██║╚════██║       
 ██████╔╝███████╗ ╚████╔╝ ██║╚██████╔╝╚██████╔╝███████║       
 ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝{Style.RESET_ALL}
-{Fore.MAGENTA}      @overflying | discord.gg/says{Style.RESET_ALL}
+{Fore.MAGENTA}      @fanciers | discord.gg/says{Style.RESET_ALL}
 
 {Fore.CYAN}    Select an option:{Style.RESET_ALL}
 {Fore.YELLOW}    [1]{Style.RESET_ALL} Multi Tokens
