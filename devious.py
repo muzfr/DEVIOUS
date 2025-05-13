@@ -8,7 +8,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 #### made by muz ####
-### contact info | @mightyspie on discord | discord.gg/PvVy76emAr | @reapproved on youtube | @muzfr on github. ###
+### contact info | @imneverenough on discord | discord.gg/PvVy76emAr | @reapproved on youtube | @muzfr on github. ###
 ### for multi tokens, put your tokens in tokens.txt ###
 
 PACKING = False
@@ -199,7 +199,7 @@ def run_client(token):
          
         elif cmd == ">menu":
             menu = """
-📜 MUZ V2 | discord.gg/PvVy76emAr | @mightyspie
+📜 MUZ V2 | discord.gg/PvVy76emAr | @imneverenough
 
 packing utility:
 >pack @user         - Regular pack from pack.txt
