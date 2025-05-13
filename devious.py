@@ -8,7 +8,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 #### made by muz ####
-### contact info | @fanciers on discord | discord.gg/says | @reapproved on youtube | @muzfr on github. ###
+### contact info | @mightyspie on discord | discord.gg/says | @reapproved on youtube | @muzfr on github. ###
 ### for multi tokens, put your tokens in tokens.txt ###
 
 PACKING = False
@@ -26,7 +26,7 @@ def splash():
 ██║  ██║██╔══╝  ╚██╗ ██╔╝██║██║   ██║██║   ██║╚════██║       
 ██████╔╝███████╗ ╚████╔╝ ██║╚██████╔╝╚██████╔╝███████║       
 ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝{Style.RESET_ALL}
-{Fore.MAGENTA}      @fanciers | discord.gg/says{Style.RESET_ALL}
+{Fore.MAGENTA}      @mightyspie | discord.gg/says{Style.RESET_ALL}
 
 {Fore.CYAN}    Select an option:{Style.RESET_ALL}
 {Fore.YELLOW}    [1]{Style.RESET_ALL} Multi Tokens
@@ -199,7 +199,7 @@ def run_client(token):
          
         elif cmd == ">menu":
             menu = """
-📜 MUZ V2 | discord.gg/says | @fanciers
+📜 MUZ V2 | discord.gg/PvVy76emAr | @mightyspie
 
 packing utility:
 >pack @user         - Regular pack from pack.txt
