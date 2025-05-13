@@ -1,6 +1,6 @@
 # 💀 DEVIOUS  — DISCORD SELF-BOT 
 
-A custom Discord selfbot coded  by [@85pw](https://discord.gg/says) 
+A custom Discord selfbot coded  by [@mightyspie](https://discord.gg/says) 
 # ⚠️ WARNING
 This is a Discord selfbot, and using it violates Discord’s Terms of Service.
 You can be disabled, warned, or banned if you abuse this client.
@@ -79,9 +79,9 @@ colorama
 
 
 # 👑 CREDITS
-🔥 Made by: @85pw 
+🔥 Made by: @mightyspie 
 
-💬 Discord: @85pw
+💬 Discord: @mightyspie
 
 🧠 Dev: Muz 
 
