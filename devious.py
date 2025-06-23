@@ -8,7 +8,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 #### made by muz ####
-### contact info | @decmber31 on discord | discord.gg/PvVy76emAr | @reapproved on youtube | @muzfr on github. ###
+### contact info | @funnyokay on discord | discord.gg/PvVy76emAr | @reapproved on youtube | @muzfr on github. ###
 ### for multi tokens, put your tokens in tokens.txt ###
 
 PACKING = False
@@ -316,7 +316,7 @@ def main():
         run_client(token)
     elif choice == "3":
         print("\n[👑 CREDITS]")
-        print("Made by: Muz @overflying")
+        print("Made by: Muz @funnyokay")
         print("Discord server: discord.gg/says\n")
     elif choice == "4":
         print("Exiting...")
